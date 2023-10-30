@@ -1,4 +1,6 @@
 #Article Summarizer
+
+
 This application provides a simple interface to summarize articles. It is built using Node.js, Express, and a touch of client-side JavaScript for the front-end.
 
 #Features
